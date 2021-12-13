@@ -1,5 +1,6 @@
 
 //new commit op
+//raushan raushan
 class LocalGlobal{
     static String str = "make my machine";//Global variable
     public static void main(String[] args) {
