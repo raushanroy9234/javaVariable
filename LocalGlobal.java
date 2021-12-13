@@ -1,6 +1,7 @@
 
 //new commit op
 //raushan raushan
+//JAVA CORE
 class LocalGlobal{
     static String str = "make my machine";//Global variable
     public static void main(String[] args) {
